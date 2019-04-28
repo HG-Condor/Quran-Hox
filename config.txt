@@ -1,6 +1,6 @@
-token=NTM4MTMwMTU2NzE2NTU2Mjkx.DyvVKw.gnuewrBrqdUo1Fs14JijohEQyig
-owner=433198762706599936
-prefix=r
-game= akira is here ..
+token=NTcyMDE4ODk2MTExMDA5Nzkz.XMWMjQ.70gsQ_oQ_UZ9p5H8Dme8Cf02CmU
+owner=378614040173346816
+prefix=q
+game=Quran|Hox
 stayinchannel=true
 songinstatus=true 
