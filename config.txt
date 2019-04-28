@@ -1,4 +1,4 @@
-token=NTcyMDE4ODk2MTExMDA5Nzkz.XMWMjQ.70gsQ_oQ_UZ9p5H8Dme8Cf02CmU
+token=NTcyMDE4ODk2MTExMDA5Nzkz.XMWRfw.11sxd-5uyQ1NpPa4KlNM82vUv40
 owner=378614040173346816
 prefix=q
 game=Quran|Hox
